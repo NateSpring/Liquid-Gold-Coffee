@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da005ed0.chunk.css",
+    "main.js": "/static/js/main.175e9148.chunk.js",
+    "main.js.map": "/static/js/main.175e9148.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.37fd7420.js",
+    "runtime~main.js.map": "/static/js/runtime~main.37fd7420.js.map",
+    "static/js/2.976e333b.chunk.js": "/static/js/2.976e333b.chunk.js",
+    "static/js/2.976e333b.chunk.js.map": "/static/js/2.976e333b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ea664f444e872cb67c5bd4d2e1271854.js": "/precache-manifest.ea664f444e872cb67c5bd4d2e1271854.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.da005ed0.chunk.css.map": "/static/css/main.da005ed0.chunk.css.map",
+    "static/media/bg7.jpg": "/static/media/bg7.437f8010.jpg",
+    "static/media/coffeecupPlain.jpg": "/static/media/coffeecupPlain.f5171bb5.jpg",
+    "static/media/darkroast.jpg": "/static/media/darkroast.0183c735.jpg",
+    "static/media/decaf.jpg": "/static/media/decaf.30cfd592.jpg",
+    "static/media/lg-logo.png": "/static/media/lg-logo.ea35b918.png",
+    "static/media/mediumroast.jpeg": "/static/media/mediumroast.79b104e9.jpeg",
+    "static/media/sign.jpg": "/static/media/sign.cf8b686b.jpg"
+  }
+}
